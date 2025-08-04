@@ -319,8 +319,8 @@ else:
 如有问题或建议，请通过以下方式联系：
 
 - 创建 Issue
-- 发送邮件至：[your-email@example.com]
-- 项目主页：[https://github.com/your-username/counseling-system]
+- 发送邮件至：[stanche624@gmail.com]
+- 项目主页：[https://github.com/somewhere1/counseling-system]
 
 ---
 
